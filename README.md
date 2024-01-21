@@ -11,3 +11,5 @@ Week two deliverable is on github
 # clone to a new folder
 
 # create a new branch
+
+# Cloned and created a new branch
